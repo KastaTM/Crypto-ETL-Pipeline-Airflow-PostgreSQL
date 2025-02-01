@@ -45,8 +45,8 @@ mv etl_pipeline.py ~/airflow/dags/
 
 ### **4️⃣ Start Airflow**
 ```bash
-airflow scheduler &
-airflow webserver -p 8080 &
+airflow scheduler
+airflow webserver -p 8080
 ```
 Access Airflow UI at 👉 [http://localhost:8080](http://localhost:8080)
 
