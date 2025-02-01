@@ -24,9 +24,6 @@ This project is a **Data Engineering Pipeline** that extracts real-time cryptocu
 
 ## 🔧 Setup & Installation
 
-### **1️⃣ Install Dependencies**
-
-
 ### **1️⃣ Setup PostgreSQL Database**
 ```sql
 CREATE DATABASE mi_basedatos;
